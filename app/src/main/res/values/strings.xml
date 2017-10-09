@@ -1,3 +1,14 @@
 <resources>
     <string name="app_name">testik</string>
+    <string name="my_activity">My Activity</string>
+    <string name="skype_dilun13">skype: dilun13</string>
+    <string name="phone">phone: 913 697 6915</string>
+    <string name="email">email: freeworknet@yandex.ru</string>
+    <string name="fio">Лазарев Анатолий Владимирович (1987 г.р.)</string>
+    <string name="keyForm">Ключ:</string>
+    <string name="valueForm">Значение:</string>
+    <string name="Submit">Submit</string>
+    <string name="One_Activ">One Activ</string>
+    <string name="nomberComent">какой коментарий вывести? n=</string>
+
 </resources>
